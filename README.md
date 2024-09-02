@@ -1,16 +1,19 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🥷🍀
 
-<!--
-**kelwinherminio/kelwinherminio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Kelwin🥇
 
-Here are some ideas to get you started:
+- Estou estudando na plataforma[Alura]( https://cursos.alura.com.br)
+- estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaço para minha organização e compartilhamento dos meus
+- projetos desenvolvidos !!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Você pode entrar em contato 💌
+
+00001109165808sp@al.educacao.sp.gov.br
+
+
+
+
+![](https://steamuserimages-a.akamaihd.net/ugc/947332735407984512/E0A7060092B8949B651BCCE28C1502451B1F4527/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
